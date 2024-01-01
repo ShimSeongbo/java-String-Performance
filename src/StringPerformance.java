@@ -12,7 +12,6 @@ public class StringPerformance {
         }
 
         endTime = System.currentTimeMillis();
-
         System.out.println("Time taken by String: " + (endTime - startTime) + "ms");
 
         // StringBuilder
