@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½Þüé8¡Ë´¥Ó1
+a
+java:S1854"?Remove this useless assignment to local variable "gameRanking".(³Ñ¸Ýÿÿÿÿÿ8­ªþ¤Ó1
+R
+java:S1481"0Remove this unused "gameRanking" local variable.(³Ñ¸Ýÿÿÿÿÿ8°ªþ¤Ó1
+K
+java:S1068
+")Remove this unused "ranks" private field.(öŠáŒûÿÿÿÿ8äÕü¤Ó1

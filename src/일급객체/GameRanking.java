@@ -1,3 +1,5 @@
+package 일급객체;
+
 import java.util.HashMap;
 import java.util.Map;
 
